@@ -5,8 +5,8 @@ import java.util.Scanner;
 
 final int READING_DELAY = 100;
 final int RECORDING_TIME = 15000;
-final int PRESSURE_LVL = 1;
-final String POINT_REF = "3c";
+final int PRESSURE_LVL = 1;    // change this for each new presure level
+final String POINT_REF = "3c"; // change this for each new point on the graph 
 
 
 int counter = RECORDING_TIME;
