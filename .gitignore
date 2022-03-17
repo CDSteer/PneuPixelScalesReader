@@ -4,3 +4,6 @@ PneuPixelScalesReader/build/*
 PneuPixelScalesReader/data/.DS_Store
 PneuPixelScalesReader/data/bin
 
+PneuPixelScalesReader/data/2/.DS_Store
+PneuPixelScalesReader/data/3/.DS_Store
+.DS_Store
